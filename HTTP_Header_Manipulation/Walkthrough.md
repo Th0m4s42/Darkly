@@ -7,7 +7,7 @@ Manipuler le header d'une requête http en modifiant le referer et le user-agent
 ![image](Screenshots/source.png)
 ![image](Screenshots/source2.png)
 
-Dans le code source on remarque qu'il y a plusieurs sections en commentaires. Deux informations nous interesse: `You must come from : "https://www.nsa.gov/"` et `Let's use this browser : "ft_bornToSec". It will help you a lot.`
+Dans le code source on remarque qu'il y a plusieurs sections en commentaires. Deux informations nous intéressent: `You must come from : "https://www.nsa.gov/"` et `Let's use this browser : "ft_bornToSec". It will help you a lot.`
 Tout laisse à penser qu'il faut changer le referer et le user agent de la requête pour accéder au flag.
 
 ## Exploitation
