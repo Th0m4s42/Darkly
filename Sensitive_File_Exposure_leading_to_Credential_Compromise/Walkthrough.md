@@ -53,4 +53,3 @@ On obtiens le flag!
 | htpasswd accessible en HTTP | Sensitive File Exposure | CWE-538 |
 | Hash MD5 non salé | Weak Hashing | CWE-916 |
 | Mot de passe cassable | Weak Credentials | CWE-521 |
-
