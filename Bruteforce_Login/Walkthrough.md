@@ -4,6 +4,7 @@ Trouver le mot de passe pour le login.
 ## Code source
 
 ![image](Screenshots/get-form.png)
+
 Le code source nous indique que le formulaire est envoyé via la méthode GET. Une erreur de développement qui laisse les credentials en clair lors de la transmission des données, qui peuvent être manipulées via l'url et/ou être lu via une attaque de l'homme du milieu.
 
 ## Exploitation 
