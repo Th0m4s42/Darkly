@@ -1,2 +1,3 @@
 # Darkly
-This project aims to introduce you to cybersecurity in the field of the WWW. You will discover OWASP, which is simply the largest cybersecurity project to date. You will also learn what many frameworks do for you, automatically and transparently.
+
+Ce projet a pour but de vous initier à la cybersécurité dans le domaine du WWW. Vous découvrirez OWASP, qui est tout simplement le plus grand projet de cybersécurité à ce jour. Vous apprendrez également ce que de nombreux frameworks font pour vous, de manière automatique et transparente.
